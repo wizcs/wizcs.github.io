@@ -1,4 +1,3 @@
 highlighter: rouge
-url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
