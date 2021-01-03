@@ -1,7 +1,7 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
-highlight_color: '#333333'
+highlight_color: '##394C6A'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
@@ -10,7 +10,7 @@ social:
   #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  #twitter: _swanson
+  twitter: wuxiaodong10
   #facebook: zuck
   #tumblr: animalygifs
   #linkedin: philipjagielski
@@ -20,7 +20,7 @@ social:
 
 # "Hi, I'm _______"
 name: WizWu
-email: cirxularwiz@outlook.com
+email: circularwiz@outlook.com
 tagline: "荒诞世界与电子荒原下的现实记录"
 
 # Google Analytics key, leave blank to ignore
