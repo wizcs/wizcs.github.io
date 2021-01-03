@@ -6,7 +6,11 @@ categories:
 ---
 # 来个公式
 
-$\frac{d}{dx}e^{ax}=ae^{ax}\quad \sum_{i=1}^{n}{(X_i - \overline{X})^2}$
+$a=x+y$
+
+$ \frac{7x+5}{1+y^2} $
+
+$ \frac{d}{dx}e^{ax}=ae^{ax}\quad \sum_{i=1}^{n}{(X_i - \overline{X})^2} $
 
 
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
