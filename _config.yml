@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: black
+highlighter: rouge
 url: https://blog.wizwu.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
