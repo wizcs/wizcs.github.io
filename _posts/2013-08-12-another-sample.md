@@ -4,6 +4,10 @@ title: Another sample
 categories:
 - blog
 ---
+# 来个公式
+
+$\frac{d}{dx}e^{ax}=ae^{ax}\quad \sum_{i=1}^{n}{(X_i - \overline{X})^2}$
+
 
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
