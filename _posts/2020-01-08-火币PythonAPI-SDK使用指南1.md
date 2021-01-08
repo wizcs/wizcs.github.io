@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 火币Ppython_API SDK V2使用指南1
+title: 火币Python_API SDK V2使用指南1
 categories:
 - blog
 ---
@@ -9,7 +9,7 @@ categories:
 #### 发生了什么让我要把一个“到处是教程”的量化SDK教程发出来呢？
 首先为了搞币圈的量化交易，我们肯定要先去这个原网址https://huobiapi.github.io/docs/spot/v1/cn 看看他们都在干啥。于是我点进去了，嗷，有基于REST的也有基于websocket的，这可难不倒我，毕竟我是金融科班出身，怎么可能不懂这些后端网络通信部分嘛，用python爬虫包装一下就好了！世上无难事只要肯放弃，于是我点开了他封装好的PYTHON SDK （v2）网址：https://github.com/HuobiRDCenter/huobi_Python   
 嗷，写的真详细——算了，硬着头皮上吧。翻译他总比拿着postman还要对时间戳和加密的测试接口好。  
-网上的信息全是已经停止位维护的v1网址。还有，目测只要波动性起来币圈大大的可以赚，那有什么人再发这教程呢？都闷头赚钱去了。
+网上的信息全是已经停止维护的v1网址。还有，目测只要波动性起来币圈大大的可以赚，那有什么人再发这教程呢？都闷头赚钱去了。
 
 # 2.python sdk结构：
 #### 以下源于他的github readme：
