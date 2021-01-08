@@ -12,8 +12,10 @@ categories:
 网上的信息全是已经停止维护的v1网址。还有，目测只要波动性起来币圈大大的可以赚，那有什么人再发这教程呢？都闷头赚钱去了。
 
 # 2.python sdk结构：
-#### 以下源于他的github readme：
+#### 以下源于他的github readme：  
+  
 1.
+
 | 客户端作用 | 客户端名称        | 私人/公开 | API 协议类型       |
 | ------------- | ------------- | ------- | ------------------ |
 | 通用       | GenericClient | Public  | Rest               |
@@ -22,7 +24,8 @@ categories:
 | 钱包        | WalletClient  | Private | Rest               |
 | 交易        | TradeClient   | Private | Rest, WebSocket v2 |
 | 杠杆       | MarginClient  | Private | Rest               |
-| ETF           | ETFClient     | Private | Rest               |
+| ETF           | ETFClient     | Private | Rest      |    
+
 其中属于私人Private的接口/api必须通过私人密钥的传递来获取数据，详细自己看文档吧。
 关于协议类型，自然是前文所述分为REST和websocket。  
 
